@@ -6,5 +6,10 @@ public class Demo {
 	{
 		System.out.println("Hai");
 	}
+	@Test
+	public void demo1()
+	{
+		System.out.println("Hai how are you");
+	}
 
 }
